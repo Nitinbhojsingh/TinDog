@@ -189,6 +189,14 @@ logo ID and declare all element. */
     transform: rotate(0);
   }
 }
+
+/* cta heading  */
+.cta-heading {
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  color: #1f1f1f;
+}
+
 #cta {
   background-color: #ff4c68;
   text-align: center;
